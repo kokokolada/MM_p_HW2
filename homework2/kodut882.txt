@@ -1,0 +1,7 @@
+//lisame nupud eelmise ja j2rgmise foto jaoks.
+//vaheldumisi m22rata uus pilt, kas foto 1 v foto 2 source'ks.
+//pealmist (foto2) vaheldumisi opacity abil peites n2idates, saate "fade" efekti.
+//v6iks teha eraldi abiobjekti let tempImg = new Image().
+//j2lgite temale src laadimist: addEventListener("load",fnc);
+//talle laete uue pildi ja kui see laetud, siis see foto 1 v foto 2 src-ks.
+//saate lisada t2psust j2lgides foto2 syndmust transitionend
